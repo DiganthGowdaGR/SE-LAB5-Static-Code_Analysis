@@ -1,0 +1,30 @@
+Run started:2025-10-27 05:59:25.762619
+
+Test results:
+	No issues identified.
+
+Code scanned:
+	Total lines of code: 50
+	Total lines skipped (#nosec): 0
+	Total potential issues skipped due to specifically being disabled (e.g., #nosec BXXX): 0
+
+Run metrics:
+	Total issues (by severity):
+		Undefined: 0
+		Low: 0
+		Medium: 0
+		High: 0
+	Total issues (by confidence):
+		Undefined: 0
+		Low: 0
+		Medium: 0
+		High: 0
+Files skipped (1):
+	.\SE-LAB5-Static-Code_Analysis/inventory_system.py (exception while scanning file)
+[main]	INFO	profile include tests: None
+[main]	INFO	profile exclude tests: None
+[main]	INFO	cli include tests: None
+[main]	INFO	cli exclude tests: None
+[main]	INFO	running on Python 3.14.0
+[manager]	ERROR	Exception occurred when executing tests against .\SE-LAB5-Static-Code_Analysis/inventory_system.py.
+[manager]	ERROR	Run "bandit --debug .\SE-LAB5-Static-Code_Analysis/inventory_system.py" to see the full traceback.
