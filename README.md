@@ -54,4 +54,5 @@ flake8 inventory_system.py
 bandit -r inventory_system.py
 ```
 
-## For Full indepth Explaination Go through Lab5 Full Documention.md file
+## For Full indepth Explaination Go through 
+Lab5-Complete-Documention.md file(#https://github.com/DiganthGowdaGR/SE-LAB5-Static-Code_Analysis/blob/main/Lab5_Complete_Documentation.md)
